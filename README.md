@@ -6,7 +6,7 @@ This privacy notice for __________ ("we," "us," or "our"), describes how and why
 1.	Download and use our mobile application (PADMA), or any other application of ours that links to this privacy notice 
 2.	If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at 
 gmail: galib.cse19.duet@gmail.com. 
-SUMMARY OF  POINTS 
+DUET Gateway information link: https://www.duet.ac.bd/#
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. 
 When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. 
 Learn more about personal information and PADMA App you disclose to us. 
