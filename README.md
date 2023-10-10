@@ -13,6 +13,7 @@ Learn more about personal information and PADMA App you disclose to us.
 1.	We Do not collect your personal information.
 2.	Do not need for log in for get services from this app.	
 3.	We do not collect and process sensitive personal information. 
+3.1. DUET all information source link: www.duet.bd.org
 4.	When show notice and gallery from this app then need only internet connection otherwise no need internet connection. 
 5.	Show notice and gallery from this app then no affected of your device or personal information. 
 6.	 We do not receive any information from third parties. 
